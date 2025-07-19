@@ -4,12 +4,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lumi2ex&theme=tokyonight" alt="Lumi2ex" /></a> </p>
 
-- 🌱 I’m currently learning **Game dev :3**
+- 🌱 I’m currently learning **Game dev**
 - 💬 Ask me about **Python , Web dev**
 - 📫 How to reach me **stellargames.lumi@gmaill.com**
 - 👨‍💻 All of my projects are available at **https://lumi-ex.fr**
-- 📝 I regularly write articles on **https://lumi-ex.fr**
-- 📄 Know about my experiences **https://lumi-ex.fr**
 
 <div> <a href="https://twitter.com/Lumi2ex" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Lumi2ex" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>

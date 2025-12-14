@@ -1,4 +1,10 @@
-here's everything about me here : https://lumi-ex.neocities.org <br>
+meow 🏳️‍⚧️🏳️‍🌈(17, FR/ENG)
+I love:
+- video games (Celeste⭐)
+- Tech
+- Cute Things
+- Learning things (linguistics/history...)
+My Website [WIP] : https://lumi-ex.neocities.org <br>
 <details>
   <summary>PUBLIC PGP KEY (click to expand)</summary>
                 -----BEGIN PGP PUBLIC KEY BLOCK----- <br>
